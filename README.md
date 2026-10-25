@@ -41,6 +41,5 @@ The project involved working with an existing codebase, designing a reorganized 
 - Factory Design Pattern
 - Method Design Pattern
 - Unit Testing
-Test-Driven Development (TDD)
-
-Code Maintainability and Modularity
+- Test-Driven Development (TDD)
+- Code Maintainability and Modularity
